@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tribute to Virat Kohli</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1>Tribute to Virat Kohli</h1>
+  </header>
+  <main>
+    <div class="container">
+      <div class="image-container">
+        <img src="virat_kohli.jpg" alt="Virat Kohli">
+      </div>
+      <div class="content">
+        <h2>Introduction</h2>
+        <p>
+          Virat Kohli, born on November 5, 1988, is an Indian cricketer and one of the greatest batsmen of all time. He has
+          earned numerous accolades and records throughout his cricketing career.
+        </p>
+        <h2>Early Life</h2>
+        <p>
+          Virat Kohli was born in Delhi, India. He showed a keen interest in cricket from a young age and began playing
+          organized cricket in his early teens. He quickly rose through the ranks and caught the attention of selectors.
+        </p>
+        <!-- Add more sections about his career, achievements, and personal life as you see fit -->
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2023 Your Name. All rights reserved.</p>
+  </footer>
+</body>
+
+</html>
